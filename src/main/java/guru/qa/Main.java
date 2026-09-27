@@ -17,6 +17,7 @@ public class Main {
         float aFloat = 0.0F;
         double aDouble = 0.0;
 
+
         //Символьный тип
         char aChar = 'a'; // целочисленный
         //Character charWrapper = 'a'; чтобы был объектом
